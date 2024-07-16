@@ -1,3 +1,7 @@
 print("hello")
 print("Hai")
+<<<<<<< HEAD
 test1
+=======
+test
+>>>>>>> 52970000db31424ec877d1a3ccca4f5e1979eca0
